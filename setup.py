@@ -3,7 +3,7 @@
 # @Time     : 2021-11-11 09:53
 from setuptools import setup
 
-VERSION = '1.0'
+VERSION = '1.0.1'
 NAME = "tools_py"
 setup(
     name=NAME,  # 包名字
